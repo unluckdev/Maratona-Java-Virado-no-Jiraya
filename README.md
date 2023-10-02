@@ -8,7 +8,7 @@
 1. Maratona Java 06 - Download da IDE IntelliJ Community - 01/10/2023
 1. Maratona Java 07 - Conhecendo a IDE IntelliJ Community - 01/10/2023
 1. Maratona Java 08 - Organizando o código em pacotes - 01/10/2023
-1. Maratona Java 09 - Comentários
+1. Maratona Java 09 - Comentários - 01/10/2023
 1. Maratona Java 10 - Tipos primitivos pt 01 - convenções de variáveis
 1. Maratona Java 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
 1. Maratona Java 12 - Tipos primitivos pt 03 - casting
