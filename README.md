@@ -1,16 +1,16 @@
 # Maratona-Java-Virado-no-Jiraya
  
-1. Maratona Java 01 - O que esperar do curso - 01/10/2023
-1. Maratona Java 02 - Como Java Funciona - 01/10/2023
-1. Maratona Java 03 - Fazendo o download da JDK 15 - 01/10/2023
-1. Maratona Java 04 - Configurando variaveis de ambiente - 01/10/2023
-1. Maratona Java 05 - Executando compilação manualmente - 01/10/2023
-1. Maratona Java 06 - Download da IDE IntelliJ Community - 01/10/2023
-1. Maratona Java 07 - Conhecendo a IDE IntelliJ Community - 01/10/2023
-1. Maratona Java 08 - Organizando o código em pacotes - 01/10/2023
-1. Maratona Java 09 - Comentários - 01/10/2023
-1. Maratona Java 10 - Tipos primitivos pt 01 - convenções de variáveis
-1. Maratona Java 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
+1. Maratona Java 01 - O que esperar do curso **- 01/10/2023**
+1. Maratona Java 02 - Como Java Funciona **- 01/10/2023**
+1. Maratona Java 03 - Fazendo o download da JDK 15 **- 01/10/2023**
+1. Maratona Java 04 - Configurando variaveis de ambiente **- 01/10/2023**
+1. Maratona Java 05 - Executando compilação manualmente **- 01/10/2023**
+1. Maratona Java 06 - Download da IDE IntelliJ Community **- 01/10/2023**
+1. Maratona Java 07 - Conhecendo a IDE IntelliJ Community **- 01/10/2023**
+1. Maratona Java 08 - Organizando o código em pacotes **- 01/10/2023**
+1. Maratona Java 09 - Comentários **- 01/10/2023**
+1. Maratona Java 10 - Tipos primitivos pt 01 - convenções de variáveis **- 04/10/2023**
+1. Maratona Java 11 - Tipos primitivos pt 02 - declaração e tamanho em memória **- 04/10/2023**
 1. Maratona Java 12 - Tipos primitivos pt 03 - casting
 1. Maratona Java 13 - Tipos primitivos pt 04 - Strings
 1. Maratona Java 14 - Tipos primitivos pt 05 - Exercício
