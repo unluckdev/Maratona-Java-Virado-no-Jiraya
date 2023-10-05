@@ -1,4 +1,4 @@
-# Maratona-Java-Virado-no-Jiraya
+# Maratona Java Virado no Jiraya
  
 1. Maratona Java 01 - O que esperar do curso **- 01/10/2023**
 1. Maratona Java 02 - Como Java Funciona **- 01/10/2023**
