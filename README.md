@@ -11,20 +11,20 @@
 1. Maratona Java 09 - Comentários **- 01/10/2023**
 1. Maratona Java 10 - Tipos primitivos pt 01 - convenções de variáveis **- 04/10/2023**
 1. Maratona Java 11 - Tipos primitivos pt 02 - declaração e tamanho em memória **- 04/10/2023**
-1. Maratona Java 12 - Tipos primitivos pt 03 - casting
-1. Maratona Java 13 - Tipos primitivos pt 04 - Strings
-1. Maratona Java 14 - Tipos primitivos pt 05 - Exercício
-1. Maratona Java 15 - Operadores pt 01 - Aritiméticos
-1. Maratona Java 16 - Operadores pt 02 - Relacionais
-1. Maratona Java 17 - Operadores pt 03 - Lógicos AND
-1. Maratona Java 18 - Operadores pt 04 - Lógicos OR
-1. Maratona Java 19 - Operadores pt 05 - Atribuição
-1. Maratona Java 20 - Estruturas Condicionais pt 01 - IF
-1. Maratona Java 21 - Estruturas Condicionais pt 02 - ELSE IF
-1. Maratona Java 22 - Estruturas Condicionais pt 03 - Operador ternário
-1. Maratona Java 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício
-1. Maratona Java 24 - Estruturas Condicionais pt 05 - Resolução do exercícios
-1. Maratona Java 25 - Estruturas Condicionais pt 06 - Switch
+1. Maratona Java 12 - Tipos primitivos pt 03 - casting **- 04/10/2023**
+1. Maratona Java 13 - Tipos primitivos pt 04 - Strings **- 04/10/2023**
+1. Maratona Java 14 - Tipos primitivos pt 05 - Exercício **- 04/10/2023**
+1. Maratona Java 15 - Operadores pt 01 - Aritiméticos **- 04/10/2023**
+1. Maratona Java 16 - Operadores pt 02 - Relacionais **- 04/10/2023**
+1. Maratona Java 17 - Operadores pt 03 - Lógicos AND **- 04/10/2023**
+1. Maratona Java 18 - Operadores pt 04 - Lógicos OR **- 04/10/2023**
+1. Maratona Java 19 - Operadores pt 05 - Atribuição **- 04/10/2023**
+1. Maratona Java 20 - Estruturas Condicionais pt 01 - IF **- 04/10/2023**
+1. Maratona Java 21 - Estruturas Condicionais pt 02 - ELSE IF **- 04/10/2023**
+1. Maratona Java 22 - Estruturas Condicionais pt 03 - Operador ternário **- 04/10/2023**
+1. Maratona Java 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício **- 04/10/2023**
+1. Maratona Java 24 - Estruturas Condicionais pt 05 - Resolução do exercícios **- 04/10/2023**
+1. Maratona Java 25 - Estruturas Condicionais pt 06 - Switch **- 04/10/2023**
 1. Maratona Java 26 - Estruturas Condicionais pt 07 - Switch exercício
 1. Maratona Java 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
 1. Maratona Java 28 - Estruturas de Repetição pt 02 - Exercício for
