@@ -25,18 +25,18 @@
 1. Maratona Java 23 - Estruturas Condicionais pt 04 - Tabela Verdade e exercício **- 04/10/2023**
 1. Maratona Java 24 - Estruturas Condicionais pt 05 - Resolução do exercícios **- 04/10/2023**
 1. Maratona Java 25 - Estruturas Condicionais pt 06 - Switch **- 04/10/2023**
-1. Maratona Java 26 - Estruturas Condicionais pt 07 - Switch exercício
-1. Maratona Java 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for
-1. Maratona Java 28 - Estruturas de Repetição pt 02 - Exercício for
-1. Maratona Java 29 - Estruturas de Repetição pt 03 - Break
-1. Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break
-1. Maratona Java 31 - Estruturas de Repetição pt 05 - Continue
-1. Maratona Java 32 - Arrays pt 01
-1. Maratona Java 33 - Arrays pt 02
-1. Maratona Java 34 - Arrays pt 03
-1. Maratona Java 35 - Arrays pt 04 - Foreach
-1. Maratona Java 36 - Arrays Multidimensionais pt 01
-1. Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
+1. Maratona Java 26 - Estruturas Condicionais pt 07 - Switch exercício **- 09/10/2023**
+1. Maratona Java 27 - Estruturas de Repetição pt 01 - Laços de repetição while, do while, for **- 09/10/2023**
+1. Maratona Java 28 - Estruturas de Repetição pt 02 - Exercício for **- 09/10/2023**
+1. Maratona Java 29 - Estruturas de Repetição pt 03 - Break **- 09/10/2023**
+1. Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break **- 09/10/2023**
+1. Maratona Java 31 - Estruturas de Repetição pt 05 - Continue **- 09/10/2023**
+1. Maratona Java 32 - Arrays pt 01 **- 09/10/2023**
+1. Maratona Java 33 - Arrays pt 02 **- 09/10/2023**
+1. Maratona Java 34 - Arrays pt 03 **- 09/10/2023**
+1. Maratona Java 35 - Arrays pt 04 - Foreach **- 09/10/2023**
+1. Maratona Java 36 - Arrays Multidimensionais pt 01 **- 09/10/2023**
+1. Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach **- 09/10/2023**
 1. Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
 1. Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 1. Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
@@ -284,4 +284,3 @@
 1. Maratona Java 282 - Atualizando JDK
 1. Maratona Java 283 - Record Class
 1. Maratona Java 284 - Pattern Matching for instanceof
-
