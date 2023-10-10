@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao;
 
 // Doar se salario > 5000
 public class Aula05EstruturasCondicionais03 {

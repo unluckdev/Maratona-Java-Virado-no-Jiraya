@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao;
 //somente tipos de referencias pode ser inicializado como nulo
 
 public class Aula07Arrays01 {

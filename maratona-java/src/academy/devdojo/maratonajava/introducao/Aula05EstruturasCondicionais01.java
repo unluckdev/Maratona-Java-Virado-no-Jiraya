@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava;
+package academy.devdojo.maratonajava.introducao;
 
 // IF Sempre recebe um boolean
 public class Aula05EstruturasCondicionais01 {
