@@ -37,8 +37,8 @@
 1. Maratona Java 35 - Arrays pt 04 - Foreach **- 09/10/2023**
 1. Maratona Java 36 - Arrays Multidimensionais pt 01 **- 09/10/2023**
 1. Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach **- 09/10/2023**
-1. Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
-1. Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
+1. Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização **- 12/10/2023**
+1. Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01 **- 12/10/2023**
 1. Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
 1. Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
 1. Maratona Java 42 - Orientação Objetos - Exercício Classes
