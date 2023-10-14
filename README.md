@@ -39,15 +39,15 @@
 1. Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach **- 09/10/2023**
 1. Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização **- 12/10/2023**
 1. Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01 **- 12/10/2023**
-1. Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
-1. Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
-1. Maratona Java 42 - Orientação Objetos - Exercício Classes
-1. Maratona Java 43 - Orientação Objetos - Referência de objetos
-1. Maratona Java 44 - Orientação Objetos - Métodos pt 01
-1. Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
-1. Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
-1. Maratona Java 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
-1. Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
+1. Maratona Java 40 - Orientação Objetos - Introdução classes pt 02 **- 13/10/2023**
+1. Maratona Java 41 - Orientação Objetos - Introdução classes pt 03 **- 13/10/2023**
+1. Maratona Java 42 - Orientação Objetos - Exercício Classes **- 13/10/2023**
+1. Maratona Java 43 - Orientação Objetos - Referência de objetos **- 13/10/2023**
+1. Maratona Java 44 - Orientação Objetos - Métodos pt 01 **- 13/10/2023**
+1. Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros **- 13/10/2023**
+1. Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01 **- 13/10/2023**
+1. Maratona Java 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02 **- 13/10/2023**
+1. Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo **- 13/10/2023**
 1. Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
 1. Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
 1. Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
