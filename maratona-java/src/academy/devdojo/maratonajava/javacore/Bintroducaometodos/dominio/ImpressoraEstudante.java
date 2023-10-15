@@ -1,10 +1,12 @@
 package academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio;
 
 public class ImpressoraEstudante {
-    public void imprime(Estudante estudate){
+    public void imprime(Estudante estudante){
         System.out.println("----------------------");
-        System.out.println(estudate.nome);
-        System.out.println(estudate.idade);
-        System.out.println(estudate.sexo);
+        System.out.println(estudante.nome);
+        System.out.println(estudante.idade);
+        System.out.println(estudante.sexo);
+
+        estudante.nome = "Gohan";
     }
 }
