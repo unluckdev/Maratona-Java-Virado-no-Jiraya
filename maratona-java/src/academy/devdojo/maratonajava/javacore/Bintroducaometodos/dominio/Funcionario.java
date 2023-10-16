@@ -18,8 +18,8 @@ public class Funcionario {
     public void imprimeFuncionario() {
         System.out.println(this.nome);
         System.out.println(this.idade);
-        if (salarios != null) {
-            for (double salario : salarios) {
+        if (this.salarios != null) {
+            for (double salario : this.salarios) {
                 System.out.print(salario + " ");
             }
         }
@@ -27,15 +27,15 @@ public class Funcionario {
     }
 
     public void imprimeMediaSalario() {
-        if (salarios == null) {
+        if (this.salarios == null) {
             return;
         }
 
         double somaSalario = 0;
-        for (double salario : salarios) {
+        for (double salario : this.salarios) {
             somaSalario += salario;
         }
-        System.out.println("\nMedia salarial R$ " + somaSalario / salarios.length);
+        System.out.println("\nMedia salarial R$ " + somaSalario / this.salarios.length);
 
 
     }
