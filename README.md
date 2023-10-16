@@ -51,8 +51,8 @@
 1. Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01 **- 14/10/2023**
 1. Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02 **- 14/10/2023**
 1. Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this **- 14/10/2023**
-1. Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs
-1. Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise
+1. Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs **- 15/10/2023**
+1. Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise **- 15/10/2023**
 1. Maratona Java 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
 1. Maratona Java 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
 1. Maratona Java 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
