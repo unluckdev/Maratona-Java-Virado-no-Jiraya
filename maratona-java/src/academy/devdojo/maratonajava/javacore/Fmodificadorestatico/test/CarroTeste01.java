@@ -11,10 +11,12 @@ public class CarroTeste01 {
 
 // this. faz referencia ao objeto/variavel
 // Carro. faz referencia a class
-        Carro.velocidadeLimite = 180;
+
 
         carro1.imprime();
+        Carro.setVelocidadeLimite(180);
         carro2.imprime();
         carro3.imprime();
+
     }
 }
