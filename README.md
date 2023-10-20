@@ -61,11 +61,11 @@
 1. Maratona Java 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga **- 17/10/2023**
 1. Maratona Java 60 - Orientação Objetos - Blocos de inicialização **- 17/10/2023**
 1. Maratona Java 61 - Orientação Objetos - Modificador static **- 18/10/2023**
-1. Maratona Java 62 - Orientação Objetos - Métodos estáticos
-1. Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
-1. Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
-1. Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
-1. Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um
+1. Maratona Java 62 - Orientação Objetos - Métodos estáticos **- 19/10/2023**
+1. Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático **- 19/10/2023**
+1. Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos **- 19/10/2023**
+1. Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos **- 19/10/2023**
+1. Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um **- 19/10/2023**
 1. Maratona Java 67 - Orientação Objetos - Associação pt 04 - Associação bidirecional
 1. Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
 1. Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
