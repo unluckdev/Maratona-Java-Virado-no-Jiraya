@@ -11,5 +11,11 @@ public class EscolaTeste01 {
         Escola escola = new Escola("Konoha", professores);
 
         escola.imprime();
+
+
+
+        
+
+
     }
 }

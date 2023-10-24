@@ -21,8 +21,8 @@ public class Escola {
 
         for (Professor professor : professores) {
             System.out.println(professor.getNome());
-
         }
+
     }
 
 
@@ -34,7 +34,7 @@ public class Escola {
         return this.nome;
     }
 
-    public void setProfessores(Professor[] professores) {
+    public void setProfessor(Professor[] professores) {
         this.professores = professores;
     }
 
