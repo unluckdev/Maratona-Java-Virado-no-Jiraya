@@ -9,7 +9,7 @@ public class HerancaTest02 {
         Endereco endereco = new Endereco();
         endereco.setCidade("Hachinosu");
         endereco.setCep("012345-67");
-        endereco.setRua("Rua Xebec");
+        endereco.setRua("Rua Xebec, n 5");
         funcionario.setNome("Marshall D. Teach");
         funcionario.setCpf("11111111");
         funcionario.setEndereco(endereco);
