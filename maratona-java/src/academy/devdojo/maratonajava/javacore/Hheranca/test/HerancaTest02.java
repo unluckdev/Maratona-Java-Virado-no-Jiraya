@@ -13,7 +13,7 @@ public class HerancaTest02 {
         funcionario.setNome("Marshall D. Teach");
         funcionario.setCpf("11111111");
         funcionario.setEndereco(endereco);
-        funcionario.setSalario(200000.5d);
+        funcionario.setSalario(3000000);
 
         funcionario.imprime();
     }
